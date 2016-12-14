@@ -1,0 +1,15 @@
+body {
+	background-image: url(images/Star_Galaxy%20copy.jpg)
+}
+
+canvas{
+	position: absolute;
+	margin: auto;
+	bottom: 75px;
+	right: 100px;
+	left: 100px;
+}
+
+canvas{
+	background-image: url(images/Minnesota_Vikings_second_2004_wordmark.png);
+}
